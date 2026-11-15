@@ -1,0 +1,28 @@
+{
+ "app": "Loan App Concept",
+ "start": "loan-page",
+ "screens": [
+  {
+   "slug": "review-and-confirm",
+   "name": "Review and confirm",
+   "page": "Loan",
+   "w": 375,
+   "h": 812,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "loan-page",
+   "name": "Loan page",
+   "page": "Loan",
+   "w": 375,
+   "h": 812,
+   "elements": 39,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "poppins"
+ ]
+}
